@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: blue;
+}
+
+p {
+  color: green;
+}
+
+li {
+  display: inline;
+  margin: 30px;
+}
